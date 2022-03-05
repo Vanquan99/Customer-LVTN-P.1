@@ -5,7 +5,7 @@ App cũng giúp chủ cửa hàng quản lý số lượng sản phẩm 
 ## HÌNH ẢNH DEMO
 ![Giao diện](https://flic.kr/p/2n6YdQP)
 
-![Giao diện](https://flic.kr/p/2n71SYk)
+![Giao diện](https://live.staticflickr.com/65535/51920255115_c19daab4b2_c.jpg)
 
 ![Giao diện](https://flic.kr/p/2n6ZraN)
 
