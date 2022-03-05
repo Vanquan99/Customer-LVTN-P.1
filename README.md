@@ -3,8 +3,11 @@
 App cũng giúp chủ cửa hàng quản lý số lượng sản phẩm và thông báo cho khách hàng khi có sản phẩm mới hay các chương trình giảm giá
 
 ## HÌNH ẢNH DEMO
-![Giao diện](https://www.flickr.com/photos/192441341@N03/51919736623/in/dateposted-public)
-![Giao diện](https://www.flickr.com/photos/192441341@N03/51920255115/in/dateposted-public/)
+![Giao diện](https://flic.kr/p/2n6YdQP)
+
+![Giao diện](https://flic.kr/p/2n71SYk)
+
+![Giao diện](https://flic.kr/p/2n6ZraN)
 
 ### LINK DEMO ONLINE
 [Click vào đây để xem online](https://vimeo.com/684983642)
